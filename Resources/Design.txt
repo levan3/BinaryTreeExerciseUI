@@ -1,0 +1,15 @@
+My Application
+
+The left-hand side VBox contains: 
+
+Load File button: using a prompt file chooser, allow users to choose files from their computer.
+In Order button: print names based on BST depth first, in order.
+Pre Order button: print names based on BST depth first, pre order.
+Post Order button: print names based on BST Breadth First.
+Text Field: Search for Names in File, based on First, Last, Length of First Name or Length of Last Name. 
+Decision can be chosen from the choice box below the Text Field.
+Clear Pane: Clear everything on the grid.
+Clear Data: Delete the binary tree, in case user wants to reload a different file.
+
+I also includes 2 hyperlinks to load 2 given files on ecs webpage: mswdev.csv and more_names.csv. These 
+hyperlinks load the files onto the programs. Users can then choose to sort the name in the order they want. 
